@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-opecv_plus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_Project\demo2\Intermediate\Build\Win64\x64\demo2Editor\Development\Core\SharedPCH.Core.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\UE_Project\demo2\Plugins\opecv_plus\Intermediate\Build\Win64\x64\UnrealEditor\Development\opecv_plus\opecv_plus.cpp.obj"
+"D:\UE_Project\demo2\Plugins\opecv_plus\Intermediate\Build\Win64\x64\UnrealEditor\Development\opecv_plus\Default.rc2.res"
+/OUT:"D:\UE_Project\demo2\Plugins\opecv_plus\Intermediate\Build\Win64\x64\UnrealEditor\Development\opecv_plus\UnrealEditor-opecv_plus.lib"
